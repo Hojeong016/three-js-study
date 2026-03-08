@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    /* background-color: violet; */
+}
+
+.three-canvas {
+    /* 꽉채우기 스크롤바 안생김 */
+    position: absolute  /*앱솔루트 : 둥 띄우는 것 절대 위치 */;
+    top: 0;
+    width: 0;
+    height: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;  
+}
+
+.three-canvas2{
+    position: absolute;
+    top: 0;
+    width: 0;
+    height: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
